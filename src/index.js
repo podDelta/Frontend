@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import HomeContainer from './containers/HomeContainer.js';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <HomeContainer />,
   document.getElementById('root')
 );
