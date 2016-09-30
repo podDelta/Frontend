@@ -6,8 +6,10 @@
     "react-scripts": "0.6.1"
   },
   "dependencies": {
+    "aphrodite": "0.5.0",
     "immutable": "3.8.1",
     "react": "15.3.2",
+    "react-anime": "0.2.3",
     "react-dom": "15.3.2",
     "react-reach": "0.4.1",
     "react-redux": "4.4.5",
